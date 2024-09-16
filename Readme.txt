@@ -1,4 +1,4 @@
-1.menjumlahkan dua buah bilangan : 
+1 .menjumlahkan dua buah bilangan : 
 https://drive.google.com/file/d/1_awUYG6jzwvcvNXu4QCsQhMttUf6QYgh/view?usp=drive_link
 2 .menghitung luas lingkaran : 
 https://drive.google.com/file/d/1b-4T_AodGVd5QWMwQHvXwZU_-8PPstA4/view?usp=drive_link
